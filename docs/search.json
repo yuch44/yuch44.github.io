@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yuchen Chen",
+    "section": "",
+    "text": "Email\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     CV\n  \n\n  \n  \nHi! I’m a fifth-year PhD Student at Carnegie Mellon University in the Department of Statistics and Data Science. I am fortunate to be advised by Jing Lei and Yandi Shen. Previously, I received my Bachelor’s in mathematics at University of Chicago."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Yuchen Chen",
+    "section": "Research",
+    "text": "Research\nI am broadly interested in developing theory and methods for evaluating modern learning algorithms. My recent research focuses on two main directions: characterizing the precise dynamics of high-dimensional iterative algorithms using tools from high-dimensional probability, statistical physics and optimization; and developing distribution-free methods for evaluating modern predictive algorithms."
+  },
+  {
+    "objectID": "index.html#papers",
+    "href": "index.html#papers",
+    "title": "Yuchen Chen",
+    "section": "Papers",
+    "text": "Papers\n[1] Yuchen Chen, Yandi Shen and Xingyu Xu. Approximate message passing with random initialization for phase retrieval, 2026. arXiv\n[2] Yuchen Chen and Jing Lei. Evaluating black-box classifiers via stable adaptive two sample inference, 2026. arXiv\n[3] Yuchen Chen and Yandi Shen. Learning single index model with gradient descent: spectral initialization and precise asymptotics, 2025. arXiv\n[4] Yuchen Chen and Jing Lei. Minimax optimal probability matrix estimation for graphon with spectral decay. Electronic Journal of Statistics, 19(2):3895–3926.\n[5] Yuchen Chen and Jing Lei. Debiased two-sample U-statistics with application to conditional distribution testing. Machine Learning, 114(2):33, 2025."
+  }
+]

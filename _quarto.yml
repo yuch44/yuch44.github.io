@@ -2,6 +2,7 @@ project:
   type: website
   resources: 
     -cv.pdf
+    -googlefcc3b3ac2fec326f.html
   output-dir: docs
 
 website:

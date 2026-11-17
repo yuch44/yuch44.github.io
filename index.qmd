@@ -31,15 +31,15 @@ I am broadly interested in developing theory and methods for evaluating modern l
 
 [1] Yuchen Chen, Yandi Shen and Xingyu Xu.
 *Approximate message passing with random initialization for phase retrieval*, 2026.
-[arXiv](https://arxiv.org/abs/2608.01654)
+[arXiv](https://arxiv.org/pdf/2608.01654)
 
 [2] Yuchen Chen and Jing Lei.
 *Evaluating black-box classifiers via stable adaptive two sample inference*, 2026.
-[arXiv](https://arxiv.org/abs/2604.05470)
+[arXiv](https://arxiv.org/pdf/2604.05470)
 
 [3] Yuchen Chen and Yandi Shen.
 *Learning single index model with gradient descent: spectral initialization and precise asymptotics*, 2025.
-[arXiv](https://arxiv.org/abs/2509.23527)
+[arXiv](https://arxiv.org/pdf/2509.23527)
 
 [4] Yuchen Chen and Jing Lei.
 *Minimax optimal probability matrix estimation for graphon with spectral decay*.
